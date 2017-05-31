@@ -23,6 +23,7 @@ Tout au long de son activité, l'Assemblée des Communs de Lille se dote d'outil
  	<li>Un kanban (bientôt)</li>
 </ul>
 &nbsp;
-<p id="firstHeading" class="firstHeading" lang="fr">Réflexion ouvertes sur "<a href="http://movilab.org/index.php?title=%C3%89valuation_de_la_mise_en_place_d%27une_bo%C3%AEte_%C3%A0_outils_pour_les_Tiers_Lieux" target="_blank" rel="noopener noreferrer">l'évaluation de la mise en place d'une boîte à outils pour les Tiers Lieux</a>"</p>
-<p class="firstHeading" lang="fr">[wiki-embed url='http://movilab.org/index.php?title=%C3%89valuation_de_la_mise_en_place_d%27une_bo%C3%AEte_%C3%A0_outils_pour_les_Tiers_Lieux' tabs no-edit no-contents ]</p>
+<h3 id="firstHeading" class="firstHeading">Réflexion ouvertes</h3>
+<p class="firstHeading" lang="fr">"<a href="http://movilab.org/index.php?title=%C3%89valuation_de_la_mise_en_place_d%27une_bo%C3%AEte_%C3%A0_outils_pour_les_Tiers_Lieux" target="_blank" rel="noopener noreferrer">l'évaluation de la mise en place d'une boîte à outils pour les Tiers Lieux</a>"</p>
+<p class="firstHeading" lang="fr">[wiki-embed url='http://movilab.org/index.php?title=%C3%89valuation_de_la_mise_en_place_d%27une_bo%C3%AEte_%C3%A0_outils_pour_les_Tiers_Lieux' no-edit no-contents ]</p>
 <p class="firstHeading" lang="fr"></p>
