@@ -15,7 +15,7 @@ De cette expérience est né une exposition de 600 m2 sténographiée par le col
 
 [embed]https://vimeo.com/200720088[/embed]
 
-Le processus de création de cette expérience nous semble aujourd'hui intéressant à reprendre et développer mais cette fois ci moins pour présenter les Tiers Lieux que ce qu'ils produisent.
+Le processus de création de cette expérience que nous avons nommé "<a href="http://movilab.org/index.php?title=Portail:Dm1TL/triptyque" target="_blank" rel="noopener noreferrer">Design moi 1 Tiers Lieux !</a>" nous semble aujourd'hui intéressant à reprendre et développer mais cette fois ci moins pour présenter les Tiers Lieux que ce qu'ils produisent.
 
 [embed]https://www.youtube.com/watch?v=iWpSrpiLqOk[/embed]
 
